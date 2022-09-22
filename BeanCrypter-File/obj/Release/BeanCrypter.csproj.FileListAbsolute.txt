@@ -1,0 +1,14 @@
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Release\BeanCrypter.csproj.AssemblyReference.cache
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Release\BeanCrypter.csproj.SuggestedBindingRedirects.cache
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Release\BeanCrypter_File.Form1.resources
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Release\BeanCrypter.csproj.GenerateResource.cache
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Release\BeanCrypter.csproj.CoreCompileInputs.cache
+C:\Users\1amaj\source\repos\BeanCrypter-File\bin\Release\BeanCrypter.exe.config
+C:\Users\1amaj\source\repos\BeanCrypter-File\bin\Release\BeanCrypter.exe
+C:\Users\1amaj\source\repos\BeanCrypter-File\bin\Release\BeanCrypter.pdb
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Release\BeanCrypter.Properties.Resources.resources
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Release\BeanCrypter.exe
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Release\BeanCrypter.pdb
+C:\Users\1amaj\source\repos\BeanCrypter-File\bin\Release\aa\BeanCrypter.resources.dll
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Release\BeanCrypter_File.Form1.aa.resources
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Release\aa\BeanCrypter.resources.dll

@@ -1,0 +1,11 @@
+C:\Users\1amaj\source\repos\BeanCrypter-File\bin\Debug\BeanCrypter-File.exe.config
+C:\Users\1amaj\source\repos\BeanCrypter-File\bin\Debug\BeanCrypter-File.exe
+C:\Users\1amaj\source\repos\BeanCrypter-File\bin\Debug\BeanCrypter-File.pdb
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Debug\BeanCrypter-File.csproj.AssemblyReference.cache
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Debug\BeanCrypter-File.csproj.SuggestedBindingRedirects.cache
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Debug\BeanCrypter_File.Form1.resources
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Debug\BeanCrypter_File.Properties.Resources.resources
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Debug\BeanCrypter-File.csproj.GenerateResource.cache
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Debug\BeanCrypter-File.csproj.CoreCompileInputs.cache
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Debug\BeanCrypter-File.exe
+C:\Users\1amaj\source\repos\BeanCrypter-File\obj\Debug\BeanCrypter-File.pdb
